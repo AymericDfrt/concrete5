@@ -1,0 +1,83 @@
+#logo{
+	padding-top: 5px;
+}
+#navigation{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+ 
+#navigation li{
+	text-decoration: none;
+	display: inline;
+	margin-right: 10px;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+#navigation li a{
+	color: black;
+	font-size: 30px;
+	text-decoration: none;
+}
+	
+#diapo{
+	width: 100%;
+	height: 600px;
+	margin-bottom: 20px;
+}
+
+#cta{
+	color: white;
+	background-color: rgb(34,34,34);
+	margin-top: 40px;
+}
+
+#btn_factorian{
+	color: black;
+	text-align: center;
+	line-height: 40px;
+	width: 150px;
+	height: 40px;
+	background-color: white;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#footer{
+	color: white;
+	background-color: rgb(29,29,29);
+}
+
+ul.nav{
+	float: right;
+	display: inline-block;
+	margin-bottom: 30px;
+}
+.nav li{
+	display: inline-block;
+	color: rgb(34,34,34);
+}
+
+.nav li a{
+	color: black;
+	font-size: 20px;
+}
+#contactus{
+	color: rgb(34,34,34);
+	text-decoration: none;
+}
+
+#btn-contactus{
+	padding: 10px 10px 10px 10px; 
+	background-color: rgb(242,194,74);
+	border-radius: 4px;
+}
+
+.ccm-search-block-form{
+float: right;
+margin-top: 10px;
+}
